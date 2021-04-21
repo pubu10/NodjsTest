@@ -1,2 +1,3 @@
 TextDecoderStrxre
 TextDecoderStryyy
+TextDecoderStr
